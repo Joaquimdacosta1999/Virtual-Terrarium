@@ -4,7 +4,7 @@ Welcome to **Virtual Terrarium**, a fun and interactive web project where users 
 
 ## 🧪 Live Demo
 
-[View Demo<!-- Replace with your live link -->
+[Virtual Terrarium](https://joaquimdacosta1999.github.io/Virtual-Terrarium/)
 
 ## 📁 Project Structure
 ├── index.html
@@ -32,7 +32,9 @@ Welcome to **Virtual Terrarium**, a fun and interactive web project where users 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Joaquimdacosta1999/virtual-terrarium.git
+https://github.com/Joaquimdacosta1999/Virtual-Terrarium.git
+git clone git@github.com:Joaquimdacosta1999/Virtual-Terrarium.git
+gh repo clone Joaquimdacosta1999/Virtual-Terrarium
 
 # Navigate to the project folder
 cd virtual-terrarium
